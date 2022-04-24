@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">News Application</string>
+    <string-array name="list_category">
+        <item>business</item>
+        <item>entertainment</item>
+        <item>general</item>
+        <item>health</item>
+        <item>science</item>
+        <item>sports</item>
+        <item>technology</item>
+    </string-array>
+
+    <string name="error_general">Gagal memuat, cek koneksi internet anda atau coba sesaat lagi.</string>
+    <string name="source_result_empty">Sumber berita tidak ditemukan</string>
+    <string name="source_search_result_empty">Sumber berita yang anda cari tidak ditemukan</string>
+    <string name="article_result_empty">Artikel tidak ditemukan</string>
+    <string name="article_search_result_empty">Artikel yang anda cari tidak ditemukan</string>
+    <string name="article_show_more"><u>Lihat lebih detail</u></string>
+</resources>
